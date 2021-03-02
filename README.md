@@ -12,6 +12,9 @@
 鉴于笔者水平有限，不足之处在所难免，恳请各位专家学者批评指正，以求实现新的提升。
 
 ### Project 1：基于LSTM的神经翻译模型。
+
+[ABC-NMT_with_RNNs](https://github.com/wandokan/ABC-NMT_with_RNNs)
+
 选自斯坦福CS224N，2019 winter版本的Assignment 4。基于Pytorch，使用LSTM和注意力机制，构建了Spanish-English的翻译模型。
 
 参考资料
