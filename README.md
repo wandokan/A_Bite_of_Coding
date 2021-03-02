@@ -1,4 +1,4 @@
-# a_bite_of_coding
+# A_Bite_of_Coding
 细嚼慢咽学DL
 
 做这个项目的理念有二：
