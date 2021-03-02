@@ -9,6 +9,7 @@
 ### Project 1：基于LSTM的神经翻译模型。
 选自斯坦福CS224N，2019 winter版本的Assignment 4。基于Pytorch，使用LSTM和注意力机制，构建了Spanish-English的翻译模型。
 
-1. 参考资料
-   1. https://pytorch.org/
-   2. Stanford CS224N <https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/>
+参考资料
+   1. [PyTorch](https://pytorch.org/)
+   2. [Stanford CS224N](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+
